@@ -1,6 +1,6 @@
 # Gpap-Peaky (Γιώργος Παπαματθαιάκης - George Papamatthaiakis)
 
-![Alt text](https://i.pinimg.com/564x/74/f9/a4/74f9a44233e0d54624efaf92b4d606fb.jpg)
+![Alt text](https://wallpapers.com/images/featured-full/tommy-ebq16inm64vbd8h1.jpg)
 ---
 ___Currently Studying At University Of Crete, Computer Science Department (C.S.D)___
 
@@ -22,3 +22,7 @@ Personal Interests:
 -Sketching/Drawing
 -Code!
 ```
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GpapPeaky&theme=ayu_mirage) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GpapPeaky&theme=ayu_mirage) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GpapPeaky&theme=ayu_mirage) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GpapPeaky&theme=ayu_mirage) 
