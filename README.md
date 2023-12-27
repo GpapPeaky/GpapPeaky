@@ -14,6 +14,13 @@ CSD -2nd Year
 -(minor) Python (3.13)
 -(miniscule) Javascript (ECMAScript 2020)
 ```
+
+---
+
+FrameWorks and libraries
+```
+-SDL/SDL2 (2023)
+```
 ---
 
 Personal Interests:
