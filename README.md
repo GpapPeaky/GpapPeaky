@@ -20,6 +20,7 @@ CSD -2nd Year
 FrameWorks and libraries
 ```
 -SDL/SDL2 (2023)
+-SDL2_image
 ```
 ---
 
