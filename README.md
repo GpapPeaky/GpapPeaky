@@ -6,7 +6,9 @@
 
 ---
 
-___Currently Studying At University Of Crete, Computer Science Department (C.S.D)___
+<p align="center">
+    ___Currently Studying At University Of Crete, Computer Science Department (C.S.D)___
+</p>
 
 ---
 Experience And Languages:
