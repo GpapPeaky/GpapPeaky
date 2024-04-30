@@ -1,6 +1,10 @@
 # Gpap-Peaky (Γιώργος Παπαματθαιάκης - George Papamatthaiakis)
 
+<p align="center">
+
 ![Alt text](https://www.cretalive.gr/sites/default/files/inline-images/mountakis%20kostas2.jpg)
+
+</p>
 ---
 ___Currently Studying At University Of Crete, Computer Science Department (C.S.D)___
 
