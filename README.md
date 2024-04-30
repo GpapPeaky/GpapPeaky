@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Alt text](https://www.cretalive.gr/sites/default/files/inline-images/mountakis%20kostas2.jpg)
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
 
 </p>
 
