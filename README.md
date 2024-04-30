@@ -1,9 +1,7 @@
 # Gpap-Peaky (Γιώργος Παπαματθαιάκης - George Papamatthaiakis)
 
 <p align="center">
-
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-
+    ![Alt text](https://www.cretalive.gr/sites/default/files/inline-images/mountakis%20kostas2.jpg)
 </p>
 
 ---
