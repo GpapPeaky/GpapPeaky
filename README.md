@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-    ___Currently Studying At University Of Crete, Computer Science Department (C.S.D)___
+    Currently Studying At University Of Crete, Computer Science Department (C.S.D)
 </p>
 
 ---
