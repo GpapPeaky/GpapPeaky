@@ -1,7 +1,7 @@
 # Gpap-Peaky (Γιώργος Παπαματθαιάκης - George Papamatthaiakis)
 
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg](https://www.cretalive.gr/sites/default/files/inline-images/mountakis%20kostas2.jpg" alt="Katifores me ton Kostantino Mountaki ^0^">
+    <img width="200" src="https://www.cretalive.gr/sites/default/files/inline-images/mountakis%20kostas2.jpg" alt="Katifores me ton Kostantino Mountaki ^0^">
 </p>
 
 ---
