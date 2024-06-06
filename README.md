@@ -17,7 +17,7 @@
 ---
 Experience And Languages:
 ```
-CSD -2nd Year
+CSD -3rd Year
 -C (C23)
 -C++ (C++23)
 -Java 8
