@@ -1,7 +1,7 @@
 # Gpap-Peaky (Γιώργος Παπαματθαιάκης - George Papamatthaiakis)
 
 <p align="center">
-    <img width="200" src="https://www.daynight.gr/wp-content/uploads/2019/07/xilouris-nikos-antonis-2107490011.jpg" alt="Katifores me ta Ksilourakia ^0^">
+    <img width="200" src="https://scontent.fath7-1.fna.fbcdn.net/v/t1.6435-9/151258275_2852740678273400_6567238596688054420_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_ohc=QiHDW_AN9ZMQ7kNvgEEzQnC&_nc_ht=scontent.fath7-1.fna&oh=00_AYBhNzlLLJVW1MPKHjVGTK4xNoRKNDLshEnUylf1UL8jiw&oe=66B7ABE6" alt="Katifores me ta Ksilourakia ^0^">
 </p>
 
 <p align="center">
