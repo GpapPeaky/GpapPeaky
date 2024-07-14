@@ -19,7 +19,7 @@ Experience And Languages:
 ```
 CSD -3rd Year
 -C (C23)
--C++ (C++23)
+-C++ (C++23/C++17)
 -Java 8
 -(minor) Python (3.13)
 -(miniscule) Javascript (ECMAScript 2020)
