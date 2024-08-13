@@ -1,7 +1,7 @@
 # Gpap-Peaky (Γιώργος Παπαματθαιάκης - George Papamatthaiakis)
 
 <p align="center">
-    <img width="200" src="https://scontent.fath7-1.fna.fbcdn.net/v/t1.6435-9/151258275_2852740678273400_6567238596688054420_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_ohc=QiHDW_AN9ZMQ7kNvgEEzQnC&_nc_ht=scontent.fath7-1.fna&oh=00_AYBhNzlLLJVW1MPKHjVGTK4xNoRKNDLshEnUylf1UL8jiw&oe=66B7ABE6" alt="Katifores me ta Ksilourakia ^0^">
+    <img width="200" src="https://i.ytimg.com/vi/di0hQ0vNvsQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgdUHyzi-5IpqnCw6j_leCgCv7hg" alt="Katifores me ta Ksilourakia ^0^">
 </p>
 
 <p align="center">
