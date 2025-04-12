@@ -32,6 +32,7 @@ Frameworks and libraries
 -SDL/SDL2 (2024)
 -SDL2_image
 -SDL2_mixer (minor)
+-OpenGL (minor)
 ```
 ---
 
