@@ -1,11 +1,11 @@
 # Gpap-Peaky (Γιώργος Παπαματθαιάκης - George Papamatthaiakis)
 
 <p align="center">
-    <img width="200" src="https://i.ytimg.com/vi/di0hQ0vNvsQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgdUHyzi-5IpqnCw6j_leCgCv7hg" alt="Katifores me ta Ksilourakia ^0^">
+    <img width="200" src="https://i.ytimg.com/vi/BJSd2XsbIJw/maxresdefault.jpg" alt="Koypes mono">
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=Z8JpOr-idrw&pp=ygUUzp7Phc67zr_Phc-BzrHOus65zrE%3D">Κατηφόρες Με Τα Ξυλουράκια Και Μιαν Γκούπα Ιωάννη Μαύρο Περπατητή ^Ο^</a>
+    <a href="https://www.youtube.com/watch?v=uPKDOrGTFVU">Κατηφόρες Με Στηβακτάκη Γίωργη Και Μιαν Γκούπα Ιωάννη Μαύρο Περπατητή</a>
 </p>
 
 ---
