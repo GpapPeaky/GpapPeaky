@@ -19,9 +19,9 @@ Experience And Languages:
 ```
 CSD -3rd Year
 -C (C23)
--C++ (C++23/C++17)
+-C++ (C++24/C++23/C++17)
 -Java 8
--(minor) Python (3.13)
+-(minor) Python (3.8, 3.9)
 -(miniscule) Javascript (ECMAScript 2020)
 ```
 
@@ -29,10 +29,10 @@ CSD -3rd Year
 
 Frameworks and libraries
 ```
--SDL/SDL2 (2024)
--SDL2_image
--SDL2_mixer (minor)
--OpenGL (minor)
+-SDL/SDL2 (Strongly exprerienced)
+-SDL2_image (Strongly exprerienced)
+-SDL2_mixer (Good)
+-OpenGL (Good)
 ```
 ---
 
