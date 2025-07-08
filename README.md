@@ -21,7 +21,7 @@ CSD -3rd Year
 -C (C23)
 -C++ (C++24/C++23/C++17)
 -Java 8
--(minor) Python (3.8, 3.9)
+-Python (3.8, 3.9)
 -(miniscule) Javascript (ECMAScript 2020)
 ```
 
