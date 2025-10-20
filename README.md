@@ -21,8 +21,8 @@ CSD -3rd Year
 -C (C23)
 -C++ (C++24/C++23/C++17)
 -Java 8
--Rust
 -Python (3.8, 3.9)
+-(beginner) Rust
 -(miniscule) Javascript (ECMAScript 2020)
 ```
 
@@ -34,7 +34,7 @@ Frameworks and libraries
 -SDL2_image (Strongly exprerienced)
 -SDL2_mixer (Good)
 -OpenGL (Good)
--Macroquad <Rust> (Good)
+-Macroquad <Rust> (beginner)
 ```
 ---
 
