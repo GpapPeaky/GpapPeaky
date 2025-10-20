@@ -21,6 +21,7 @@ CSD -3rd Year
 -C (C23)
 -C++ (C++24/C++23/C++17)
 -Java 8
+-Rust
 -Python (3.8, 3.9)
 -(miniscule) Javascript (ECMAScript 2020)
 ```
@@ -33,6 +34,7 @@ Frameworks and libraries
 -SDL2_image (Strongly exprerienced)
 -SDL2_mixer (Good)
 -OpenGL (Good)
+-Macroquad <Rust> (Good)
 ```
 ---
 
@@ -40,7 +42,7 @@ Personal Interests:
 ```
 -Traditional Dances
 -Sketching/Drawing
--Code!
+-Coding
 ```
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GpapPeaky&theme=ayu_mirage) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GpapPeaky&theme=ayu_mirage) 
