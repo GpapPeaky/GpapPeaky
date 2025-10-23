@@ -36,6 +36,4 @@ Personal Interests:
 -Sketching/Drawing
 -Coding
 ```
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GpapPeaky&theme=ayu_mirage) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GpapPeaky&theme=ayu_mirage) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GpapPeaky&theme=ayu_mirage) 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GpapPeaky&theme=ayu-mirage&hide_border=true" alt="Streak Stats" width="70%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GpapPeaky&show_icons=true&theme=ayu-mirage&hide_border=true" alt="GitHub Stats" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GpapPeaky&layout=compact&theme=ayu-mirage&hide_border=true" alt="Top Languages" width="48%"> </p>
