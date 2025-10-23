@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="font-size: 22px;" >
     Currently Studying At University Of Crete, Computer Science Department (C.S.D)
 </p>
 
