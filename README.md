@@ -22,10 +22,10 @@ CSD 4th Year
 
 Frameworks and libraries
 ```
--SDL/SDL2 (Strongly exprerienced)
--SDL2_image (Strongly exprerienced)
--SDL2_mixer (Good)
--OpenGL (Good)
+-SDL/SDL2
+-SDL2_image
+-SDL2_mixer
+-OpenGL
 -Macroquad <Rust>
 ```
 Personal Interests:
