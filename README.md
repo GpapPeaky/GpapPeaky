@@ -15,7 +15,7 @@ CSD 4th Year
 -Java 8
 -Python (3.8, 3.9)
 -Rust
--Javascript (ECMAScript 2020)
+-Javascript
 ```
 
 ---
