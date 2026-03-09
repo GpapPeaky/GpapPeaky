@@ -16,6 +16,7 @@ CSD 4th Year
 -Python (3.8, 3.9)
 -Rust
 -Javascript
+-Typescript
 ```
 
 ---
@@ -27,6 +28,8 @@ Frameworks and libraries
 -SDL2_mixer
 -OpenGL
 -Macroquad <Rust>
+-React <Typescript>
+-Next-js <Typescript/Javascript>
 ```
 Personal Interests:
 ```
