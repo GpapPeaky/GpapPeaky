@@ -7,7 +7,7 @@
 </p>
 
 ---
-Experience And Languages:
+Experience, Languages and Systems:
 ```
 CSD 4th Year
 -C (C23)
@@ -17,6 +17,7 @@ CSD 4th Year
 -Rust
 -Javascript
 -Typescript
+-Linux (Arch/hyprland)
 ```
 
 ---
