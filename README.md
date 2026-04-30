@@ -17,7 +17,7 @@ CSD 4th Year
 -Rust
 -Javascript
 -Typescript
--Linux (Arch/hyprland)
+-Linux (Arch/hyprland/x11)
 ```
 
 ---
