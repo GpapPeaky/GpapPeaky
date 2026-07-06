@@ -18,6 +18,7 @@ CSD 4th Year
 -Javascript
 -Typescript
 -Linux (Arch/hyprland/x11)
+-Unity 6
 ```
 
 ---
