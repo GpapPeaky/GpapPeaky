@@ -29,6 +29,7 @@ Frameworks and libraries
 -SDL2_image
 -SDL2_mixer
 -OpenGL
+-raylib
 -Macroquad <Rust>
 -React <Typescript>
 -Next-js <Typescript/Javascript>
